@@ -36,7 +36,7 @@ export default function Home() {
   }, []);
 
   return (
-    <Base title="Home Page" description="Welcome to the Tshirt Store!">
+    <Base title="Home Page" description="Welcome to the CAS!">
       <div className="row text-center">
       </div>  <Grid container justify="center">
           <Grid item xs={10}>
